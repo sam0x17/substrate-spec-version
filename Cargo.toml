@@ -8,3 +8,6 @@ keywords = ["polkadot", "substrate", "blockchain", "spec version", "cli"]
 license = "MIT"
 
 [dependencies]
+structopt = "0.3.26"
+subxt = "0.35.3"
+tokio = { version = "1.37.0", features = ["full"] }
