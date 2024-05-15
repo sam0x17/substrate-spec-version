@@ -6,6 +6,7 @@ authors = ["sam0x17"]
 description = "A dead-simple CLI tool to get the spec version of a substrate-based blockchain from the specified websocket URL"
 keywords = ["polkadot", "substrate", "blockchain", "spec version", "cli"]
 license = "MIT"
+repository = "https://github.com/sam0x17/substrate-spec-version"
 
 [dependencies]
 structopt = "0.3.26"
