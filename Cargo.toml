@@ -1,0 +1,10 @@
+[package]
+name = "substrate-spec-version"
+version = "0.1.0"
+edition = "2021"
+authors = ["sam0x17"]
+description = "A dead-simple CLI tool to get the spec version of a substrate-based blockchain from the specified websocket URL"
+keywords = ["polkadot", "substrate", "blockchain", "spec version", "cli"]
+license = "MIT"
+
+[dependencies]
